@@ -1,5 +1,20 @@
 {
-    "title": "Ubuntu simple",
+    "title": "Acceso por SSH",
+    "description": "Practica como realizar comandos por SSH",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Conectandonos a un Mikrotik",
+          "text": "step1.md"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
+    },
     "backend": {
       "imageid": "ubuntu"
     }
